@@ -1,4 +1,4 @@
-# awesome-network-mind-maps
+# awesome-network-mind-maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 An awesome collection of networking mind maps and visual guides for learning computer networks, protocols, routing, switching, and cloud infrastructure.
 
 ## Who is this for?
